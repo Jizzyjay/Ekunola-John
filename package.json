@@ -12,6 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/cobidev/simplefolio"
   },
+  "engines": {
+    "node": "14.16.1",
+    "npm": "6.14.1"
+  },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
