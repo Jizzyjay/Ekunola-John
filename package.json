@@ -1,5 +1,5 @@
 {
-  "name": "Ekunla John",
+  "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jizzyjay/Ekunola-John"
+    "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "John Ekunola",
+  "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
