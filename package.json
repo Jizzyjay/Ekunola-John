@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "ekunola-john",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -10,19 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/Jizzyjay/Ekunola-John"
   },
   "engines": {
     "node": "14.16.1",
     "npm": "6.14.1"
   },
-  "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.2.6",
