@@ -23,21 +23,21 @@
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.2",
     "mini-css-extract-plugin": "^1.6.1",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.1",
     "prettier": "^2.3.2",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.0.0"
   },
   "dependencies": {
-    "webpack": "^5.40.0",
-    "webpack-cli": "^4.7.2",
-    "webpack-dev-server": "^3.11.2",
-    "webpack-merge": "^5.8.0",
-    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "@popperjs/core": "^2.9.2",
     "bootstrap": "^5.0.2",
     "jquery": "^3.6.0",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "popper.js": "^1.16.1",
-    "tilt.js": "^1.2.1"
+    "tilt.js": "^1.2.1",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^4.7.3",
+    "webpack-merge": "^5.8.0"
   }
 }
